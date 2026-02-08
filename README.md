@@ -84,15 +84,13 @@ Sistema para una empresa de concientización en ciberseguridad.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Matthrve&show_icons=true&theme=midnight-purple&hide_border=true&locale=es"
-    alt="GitHub stats"
+    src="https://stats-github.vercel.app/api?username=Matthrve&show_icons=true&theme=midnight-purple&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrve&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"
-    alt="Top languages"
+    src="https://stats-github.vercel.app/api/top-langs/?username=Matthrve&layout=compact&theme=midnight-purple&hide_border=true"
   />
 </p>
 
