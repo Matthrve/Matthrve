@@ -19,9 +19,9 @@
 ## 👋 Sobre mí
 
 Soy **Matthew Redín**, estudiante de **Ingeniería en Software** en la **Escuela Politécnica Nacional (EPN)**.  
-Me interesa **diseñar y construir sistemas reales**, entendiendo no solo cómo funcionan, sino **por qué** funcionan así.
+Me interesa **diseñar y construir sistemas reales**, entendiendo no solo cómo funcionan, sino también **por qué** funcionan así.
 
-Exploro activamente áreas como **Inteligencia Artificial**, **Ciencia de Datos** y **Ciberseguridad**, sin apresurarme a encasillarme:  
+Exploro activamente áreas como **Inteligencia Artificial**, **Ciencia de Datos** y **Ciberseguridad**, manteniendo una mentalidad abierta:  
 prefiero **aprender bien primero y especializarme con criterio después**.
 
 🧪 Actualmente formo parte del **Laboratorio de Investigación LASINAC**, donde conecto la teoría académica con la práctica técnica.
@@ -78,6 +78,26 @@ Sistema desarrollado para una empresa de concientización en ciberseguridad.
 
 - 🧪 Miembro del **Laboratorio de Investigación LASINAC (EPN)**
 - 🤖 Interés en aplicar **IA y análisis de datos** a problemas reales
+
+---
+
+<!--
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Matthrve&show_icons=true&theme=midnight-purple&hide_border=true&locale=es"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrve&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"
+    alt="Top languages"
+  />
+</p>
+-->
 
 ---
 
