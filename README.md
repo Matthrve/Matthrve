@@ -14,6 +14,10 @@
   ☕ café &nbsp;·&nbsp; 💪 gym &nbsp;·&nbsp; 🎧 música &nbsp;·&nbsp; 🖤💜 negro & morado
 </p>
 
+<p align="center">
+  <code>// systems · data · security · learning by building</code>
+</p>
+
 ---
 
 ## 👋 Sobre mí
@@ -53,7 +57,7 @@ prefiero **aprender bien primero y especializarme con criterio después**.
 ## 🚀 Proyectos Destacados
 
 ### 🏥 Sistema de Gestión de Turnos Médicos
-Sistema desarrollado para un centro médico.
+Sistema desarrollado para un centro médico, enfocado en **organización, confiabilidad y persistencia de datos**.
 
 - Gestión de turnos y pacientes  
 - Organización de agendas  
@@ -64,7 +68,7 @@ Sistema desarrollado para un centro médico.
 ---
 
 ### 🔐 Sistema de Alertas y Cotizaciones
-Sistema desarrollado para una empresa de concientización en ciberseguridad.
+Sistema desarrollado para una empresa de concientización en ciberseguridad, orientado a **automatizar procesos y centralizar información crítica**.
 
 - Gestión de alertas  
 - Control de cotizaciones  
@@ -121,5 +125,5 @@ Sistema desarrollado para una empresa de concientización en ciberseguridad.
 </p>
 
 <p align="center">
-  <em>Perfil en evolución constante</em>
+  <em>Perfil en evolución constante · construyendo mejores sistemas</em>
 </p>
