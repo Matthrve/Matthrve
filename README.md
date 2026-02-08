@@ -95,7 +95,7 @@ Sistema para una empresa de concientización en ciberseguridad.
 ## 🐍 Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake.svg?v=1" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
