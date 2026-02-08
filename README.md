@@ -80,6 +80,7 @@ Sistema para una empresa de concientización en ciberseguridad.
 
 ---
 
+<!--
 ## 📊 GitHub
 
 <p align="center">
@@ -95,6 +96,7 @@ Sistema para una empresa de concientización en ciberseguridad.
     alt="Top languages"
   />
 </p>
+--->
 
 ---
 
