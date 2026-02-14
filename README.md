@@ -2,33 +2,39 @@
 <h3 align="center">Ingeniería en Software · Escuela Politécnica Nacional</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7F3ACE&height=220&section=header&text=Matthrve&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7F3ACE&height=200&section=header&text=Matthrve&fontSize=46&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Software · IA · Data · Ciberseguridad</strong><br/>
-  <em>Aprendo construyendo, entendiendo y mejorando sistemas reales</em>
+  <strong>Software · Inteligencia Artificial · Datos · Seguridad</strong><br/>
+  <em>Construyendo sistemas con fundamentos sólidos y propósito real</em>
 </p>
 
 <p align="center">
-  ☕ café &nbsp;·&nbsp; 💪 gym &nbsp;·&nbsp; 🎧 música &nbsp;·&nbsp; 🖤💜 negro & morado
-</p>
-
-<p align="center">
-  <code>// systems · data · security · learning by building</code>
+  <code>building systems · understanding data · thinking long term</code>
 </p>
 
 ---
 
 ## 👋 Sobre mí
 
-Soy **Matthew Redín**, estudiante de **Ingeniería en Software** en la **Escuela Politécnica Nacional (EPN)**.  
-Me interesa **diseñar y construir sistemas reales**, entendiendo no solo cómo funcionan, sino también **por qué** funcionan así.
+Soy **Matthew Redín**, estudiante de **Ingeniería en Software** en la **Escuela Politécnica Nacional (EPN)**.
 
-Exploro activamente áreas como **Inteligencia Artificial**, **Ciencia de Datos** y **Ciberseguridad**, manteniendo una mentalidad abierta:  
-prefiero **aprender bien primero y especializarme con criterio después**.
+Me enfoco en **diseñar y construir sistemas bien estructurados**, priorizando claridad, lógica consistente y sostenibilidad en el tiempo.  
+Me interesa entender no solo cómo funciona algo, sino **por qué está diseñado de esa manera**.
 
-🧪 Actualmente formo parte del **Laboratorio de Investigación LASINAC**, donde conecto la teoría académica con la práctica técnica.
+Exploro activamente **Inteligencia Artificial**, **Ciencia de Datos** y **Ciberseguridad**, fortaleciendo primero los fundamentos antes de especializarme.
+
+🧪 Formo parte del **Laboratorio de Investigación LASINAC**, donde conecto teoría académica con implementación técnica real.
+
+---
+
+## 🎯 En desarrollo
+
+- Profundizando en **diseño de sistemas y arquitectura**
+- Aplicando **IA y análisis de datos** a problemas prácticos
+- Fortaleciendo fundamentos en **estructuras de datos y seguridad**
+- Mejorando calidad, mantenibilidad y claridad del código
 
 ---
 
@@ -57,24 +63,24 @@ prefiero **aprender bien primero y especializarme con criterio después**.
 ## 🚀 Proyectos Destacados
 
 ### 🏥 Sistema de Gestión de Turnos Médicos
-Sistema desarrollado para un centro médico, enfocado en **organización, confiabilidad y persistencia de datos**.
+Sistema desarrollado para un centro médico, diseñado para mejorar la organización de agendas y garantizar persistencia confiable de datos.
 
-- Gestión de turnos y pacientes  
-- Organización de agendas  
-- Persistencia de información  
+- Gestión estructurada de turnos y pacientes  
+- Organización eficiente de agendas médicas  
+- Persistencia consistente en base de datos  
 
-**Enfoque:** lógica de negocio · bases de datos · diseño de sistemas
+**Enfoque técnico:** lógica de negocio clara · modelado de datos · diseño estructurado
 
 ---
 
 ### 🔐 Sistema de Alertas y Cotizaciones
-Sistema desarrollado para una empresa de concientización en ciberseguridad, orientado a **automatizar procesos y centralizar información crítica**.
+Sistema para una empresa de concientización en ciberseguridad, orientado a automatizar procesos y centralizar información crítica.
 
-- Gestión de alertas  
-- Control de cotizaciones  
-- Organización de clientes  
+- Gestión de alertas y seguimiento  
+- Control estructurado de cotizaciones  
+- Organización de clientes y datos sensibles  
 
-**Enfoque:** automatización · seguridad · gestión de información
+**Enfoque técnico:** automatización de procesos · gestión segura de información · estructura modular
 
 ---
 
@@ -82,6 +88,7 @@ Sistema desarrollado para una empresa de concientización en ciberseguridad, ori
 
 - 🧪 Miembro del **Laboratorio de Investigación LASINAC (EPN)**
 - 🤖 Interés en aplicar **IA y análisis de datos** a problemas reales
+- 📚 Enfoque en conectar fundamentos teóricos con implementación práctica
 
 ---
 
@@ -125,5 +132,5 @@ Sistema desarrollado para una empresa de concientización en ciberseguridad, ori
 </p>
 
 <p align="center">
-  <em>Perfil en evolución constante · construyendo mejores sistemas</em>
+  <em>Perfil en evolución constante · construyendo bases sólidas para sistemas inteligentes</em>
 </p>
