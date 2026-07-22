@@ -11,7 +11,11 @@
 </p>
 
 <p align="center">
-  <code>building systems · understanding data · thinking long term</code>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=Building+systems+with+solid+foundations;Exploring+AI%2C+Data+%26+Security;Estudiante+de+Ingenier%C3%ADa+en+Software+-+EPN;Pensando+a+largo+plazo" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matthrve&color=7F3ACE&style=for-the-badge&label=VISITAS" alt="Visitor badge" />
 </p>
 
 ---
@@ -40,23 +44,29 @@ Exploro activamente **Inteligencia Artificial**, **Ciencia de Datos** y **Cibers
 
 ## 🛠️ Tech Stack
 
-<p align="center"><strong>Lenguajes</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html" />
-</p>
-
-<p align="center"><strong>Datos & Bases de datos</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" />
-</p>
-
-<p align="center"><strong>Herramientas & entorno</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/>
-  <img src="https://img.shields.io/badge/n8n-7F3ACE?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaSwing-000000?style=for-the-badge" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Lenguajes</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Datos & Bases de datos</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+      <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Herramientas & entorno</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/>
+      <img src="https://img.shields.io/badge/n8n-7F3ACE?style=for-the-badge&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaSwing-000000?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,7 +102,6 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
 
 ---
 
-<!--
 ## 📊 GitHub
 
 <p align="center">
@@ -100,22 +109,33 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
     src="https://github-readme-stats.vercel.app/api?username=Matthrve&show_icons=true&theme=midnight-purple&hide_border=true&locale=es"
     alt="GitHub stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrve&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"
     alt="Top languages"
   />
 </p>
--->
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Matthrve&theme=midnight-purple&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Matthrve&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub trophies"
+  />
+</p>
 
 ---
 
 ## 🐍 Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
