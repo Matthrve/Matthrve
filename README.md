@@ -105,14 +105,8 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Matthrve&show_icons=true&theme=midnight-purple&hide_border=true&locale=es"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrve&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"
-    alt="Top languages"
-  />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -123,10 +117,7 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Matthrve&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub trophies"
-  />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ---
