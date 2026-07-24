@@ -48,4 +48,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update profile cards" || exit 0
           git push
-          
