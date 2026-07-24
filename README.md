@@ -31,6 +31,8 @@ Exploro activamente **Inteligencia Artificial**, **Ciencia de Datos** y **Cibers
 
 🧪 Formo parte del **Laboratorio de Investigación LASINAC**, donde conecto teoría académica con implementación técnica real.
 
+🛡️ Miembro de **CYBERMINDS**, célula estudiantil de ciberseguridad de la EPN (CTFs, cursos y proyectos), con la visión de convertirse en una red de conocimiento referente en ciberseguridad entre profesionales y estudiantes.
+
 ---
 
 ## 🎯 En desarrollo
@@ -48,7 +50,7 @@ Exploro activamente **Inteligencia Artificial**, **Ciencia de Datos** y **Cibers
   <tr>
     <td align="center"><strong>Lenguajes</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php,html" />
     </td>
   </tr>
   <tr>
@@ -94,9 +96,53 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
 
 ---
 
+### 🕯️ El Pabellón 9 — Simulador de Recuerdos
+Videojuego de terror psicológico en primera persona desarrollado en **OpenGL** junto al estudio estudiantil *Umbra Games*, donde cada sala representa un recuerdo fragmentado que el jugador debe atravesar.
+
+- Desarrollo completo de la Sala 3 ("El Almacén Navideño"): render 3D, colisiones y audio de la escena
+- Sistema de escenas con enrutador central, permitiendo que cada integrante trabaje su sala de forma independiente
+- Integración de OpenGL, Assimp, FreeType y audio con WinMM/MCI
+
+**Enfoque técnico:** renderizado 3D con OpenGL · gestión de escenas y estado · sistemas de colisión y audio personalizados
+
+---
+
+### 🧠 VAE Auditor — Detección de Anomalías en Ventas
+Auditor inteligente de ventas para un restaurante MiPYME, usando un **Autoencoder Variacional (VAE)** para aprender el patrón normal de transacciones y detectar anomalías.
+
+- Responsable de la Parte 4 — Evaluación: calibración de umbrales de severidad, métricas de clasificación y monto en riesgo
+- Mejoras de backend y frontend de la plataforma de auditoría
+- Resultados: precisión 0.93 · recall 0.96 · F1 0.94
+
+**Enfoque técnico:** aprendizaje no supervisado (VAE) · evaluación de modelos · desarrollo full-stack
+
+---
+
+### 🏢 Condominio26 — Sistema de Gestión de Condominios
+Sistema integral en **Java/JavaFX** para administración de condominios: control de accesos, finanzas, inmuebles y comunicación, con arquitectura MVC multicapa.
+
+- Grupo responsable del módulo de **Reservas**: catálogo de disponibilidad, validación de choques de horario y ciclo de vida completo de la reserva
+- Arquitectura en capas: presentación (JavaFX), servicios, DAO y dominio
+
+**Enfoque técnico:** Java 21 · JavaFX · arquitectura en capas · persistencia con SQLite/JDBC
+
+---
+
+### 🚚 LogistIA — Optimizador de Rutas para PyMEs
+Proyecto de Inteligencia Artificial enfocado en optimizar rutas logísticas para pequeñas y medianas empresas.
+
+- Servicios de planificación y ruteo apoyados en un modelo de lenguaje (LLM)
+- Automatización de flujos con n8n
+- Validación de datos y persistencia en base de datos propia
+
+**Enfoque técnico:** Python · integración de LLM · automatización con n8n · optimización de rutas
+
+---
+
 ## 🔬 Investigación
 
 - 🧪 Miembro del **Laboratorio de Investigación LASINAC (EPN)**
+- 🛡️ Miembro de **CYBERMINDS**, célula estudiantil de ciberseguridad de la EPN
 - 🤖 Interés en aplicar **IA y análisis de datos** a problemas reales
 - 📚 Enfoque en conectar fundamentos teóricos con implementación práctica
 
@@ -136,6 +182,9 @@ Sistema para una empresa de concientización en ciberseguridad, orientado a auto
 <p align="center">
   <a href="https://github.com/Matthrve">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matthew-red%C3%ADn-4a294a355">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:redinmatthew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"/>
