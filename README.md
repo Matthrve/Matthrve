@@ -156,10 +156,7 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Matthrve&theme=midnight-purple&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
