@@ -74,6 +74,37 @@ I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersec
 
 ## 🚀 Featured Projects
 
+### 🎯 Fit Score — AI-Powered Talent Screening & Audit
+Final project for *Fundamentals of AI* at the **CyberMinds EPN Summer Camp 2026**. A CV-screening system that scores candidate-to-job fit with a **trained Machine Learning model** (not a prompt to an LLM), and audits the hiring process itself. Runs 100% locally, with no external API.
+
+- Explainable scoring: a Gradient Boosting model whose every score is broken down with **SHAP**
+- Bias audit of the process (80% rule), with sensitive proxies kept out of the model's inputs
+- Detection of duplicated/plagiarized CVs across candidates and atypical CVs (**Isolation Forest**)
+- Upskilling recommendations for near-fit candidates, delivered through a **Streamlit** dashboard
+- Security by design: admin-protected vacancy editing, CSV-injection and XSS protection, safe file handling, no candidate data persisted
+- Integration tests running the full pipeline on real sample CVs (**pytest**)
+
+**Technical focus:** applied ML · explainable AI (SHAP) · fairness auditing · secure application design
+
+[🔗 View repository](https://github.com/Matthrve/cybersecurity-projects/tree/main/fit-score-reclutamiento)
+
+---
+
+### 🛡️ Digital Risk Map — Lightweight AI for Personal Security
+Tool that evaluates a person's digital habits (passwords, updates, networks, backups, device security) and generates a **visual risk map** with a **prioritized action plan**. Everything runs locally and nothing leaves the machine.
+
+- Hybrid approach: an explainable **rules engine** across 5 categories plus a **Random Forest** model that classifies overall risk (Low / Medium / High)
+- Action plan ranked by impact ÷ effort, simulating the score after each fix
+- On Windows, a read-only **PowerShell** layer reads real system signals (Defender, firewall, updates, BitLocker, RDP) and flags mismatches with what the user reported
+- Local progress history in **SQLite**, downloadable Word report, and an optional weekly reminder
+- Custom **Flask** frontend with hand-built animated SVG charts and light/dark themes (Streamlit version also included)
+
+**Technical focus:** security awareness · hybrid rules + ML · local-first privacy · full-stack development
+
+[🔗 View repository](https://github.com/Matthrve/cybersecurity-projects/tree/main/mapa-riesgos-digitales)
+
+---
+
 ### 🏥 Medical Appointment Management System
 System developed for a medical center, designed to improve schedule organization and ensure reliable data persistence.
 
