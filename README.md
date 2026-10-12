@@ -20,7 +20,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Matthew Redín**, a **Software Engineering** student at **Escuela Politécnica Nacional (EPN)**.
 
@@ -35,7 +35,7 @@ I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersec
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
 - Deepening my knowledge of **systems design and architecture**
 - Applying **AI and data analysis** to practical problems
@@ -44,7 +44,7 @@ I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersec
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -72,7 +72,7 @@ I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersec
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🎯 Fit Score — AI-Powered Talent Screening & Audit
 Final project for *Fundamentals of AI* at the **CyberMinds EPN Summer Camp 2026**. A CV-screening system that scores candidate-to-job fit with a **trained Machine Learning model** (not a prompt to an LLM), and audits the hiring process itself. Runs 100% locally, with no external API.
@@ -170,7 +170,7 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 
 ---
 
-## 🔬 Research
+## Research
 
 - 🧪 Member of the **LASINAC Research Laboratory (EPN)**
 - 🛡️ Member of **CYBERMINDS**, EPN's student cybersecurity cell
@@ -179,7 +179,7 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" />
@@ -196,7 +196,7 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 
 ---
 
-## 🐍 Activity
+## Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matthrve/Matthrve/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
@@ -205,7 +205,7 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 
 ---
 
-## 🤝 Contact
+## Contact
 
 <p align="center">
   <a href="https://github.com/Matthrve">
