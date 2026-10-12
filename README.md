@@ -29,9 +29,9 @@ I care not only about how something works, but about **why it's designed that wa
 
 I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersecurity**, strengthening the fundamentals before specializing.
 
-🧪 I'm part of the **LASINAC Research Laboratory**, where I connect academic theory with real technical implementation.
+I'm part of the **LASINAC Research Laboratory**, where I connect academic theory with real technical implementation.
 
-🛡️ Member of **CYBERMINDS**, EPN's student cybersecurity cell (CTFs, courses, and projects), with the vision of becoming a leading knowledge network in cybersecurity among professionals and students.
+Member of **CYBERMINDS**, EPN's student cybersecurity cell (CTFs, courses, and projects), with the vision of becoming a leading knowledge network in cybersecurity among professionals and students.
 
 ---
 
@@ -74,7 +74,7 @@ I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersec
 
 ## Featured Projects
 
-### 🎯 Fit Score — AI-Powered Talent Screening & Audit
+### Fit Score — AI-Powered Talent Screening & Audit
 Final project for *Fundamentals of AI* at the **CyberMinds EPN Summer Camp 2026**. A CV-screening system that scores candidate-to-job fit with a **trained Machine Learning model** (not a prompt to an LLM), and audits the hiring process itself. Runs 100% locally, with no external API.
 
 - Explainable scoring: a Gradient Boosting model whose every score is broken down with **SHAP**
@@ -90,7 +90,7 @@ Final project for *Fundamentals of AI* at the **CyberMinds EPN Summer Camp 2026*
 
 ---
 
-### 🛡️ Digital Risk Map — Lightweight AI for Personal Security
+### Digital Risk Map — Lightweight AI for Personal Security
 Tool that evaluates a person's digital habits (passwords, updates, networks, backups, device security) and generates a **visual risk map** with a **prioritized action plan**. Everything runs locally and nothing leaves the machine.
 
 - Hybrid approach: an explainable **rules engine** across 5 categories plus a **Random Forest** model that classifies overall risk (Low / Medium / High)
@@ -105,7 +105,7 @@ Tool that evaluates a person's digital habits (passwords, updates, networks, bac
 
 ---
 
-### 🏥 Medical Appointment Management System
+### Medical Appointment Management System
 System developed for a medical center, designed to improve schedule organization and ensure reliable data persistence.
 
 - Structured management of appointments and patients
@@ -116,7 +116,7 @@ System developed for a medical center, designed to improve schedule organization
 
 ---
 
-### 🔐 Alert and Quotation System
+### Alert and Quotation System
 System built for a cybersecurity awareness company, aimed at automating processes and centralizing critical information.
 
 - Alert management and tracking
@@ -127,7 +127,7 @@ System built for a cybersecurity awareness company, aimed at automating processe
 
 ---
 
-### 🕯️ El Pabellón 9 — Memory Simulator
+### El Pabellón 9 — Memory Simulator
 First-person psychological horror video game built in **OpenGL** with the student studio *Umbra Games*, where each room represents a fragmented memory the player must go through.
 
 - Full development of Room 3 ("The Christmas Storeroom"): 3D rendering, collisions, and scene audio
@@ -138,7 +138,7 @@ First-person psychological horror video game built in **OpenGL** with the studen
 
 ---
 
-### 🧠 VAE Auditor — Sales Anomaly Detection
+### VAE Auditor — Sales Anomaly Detection
 Intelligent sales auditor for a small restaurant business, using a **Variational Autoencoder (VAE)** to learn normal transaction patterns and detect anomalies.
 
 - Responsible for Part 4 — Evaluation: severity threshold calibration, classification metrics, and amount at risk
@@ -149,7 +149,7 @@ Intelligent sales auditor for a small restaurant business, using a **Variational
 
 ---
 
-### 🏢 Condominio26 — Condominium Management System
+### Condominio26 — Condominium Management System
 Comprehensive **Java/JavaFX** system for condominium administration: access control, finances, properties, and communication, built on a multi-layer MVC architecture.
 
 - Team responsible for the **Reservations** module: availability catalog, schedule conflict validation, and the full reservation lifecycle
@@ -159,7 +159,7 @@ Comprehensive **Java/JavaFX** system for condominium administration: access cont
 
 ---
 
-### 🚚 LogistIA — Route Optimizer for SMEs
+### LogistIA — Route Optimizer for SMEs
 Artificial Intelligence project focused on optimizing logistics routes for small and medium-sized businesses.
 
 - Planning and routing services powered by a language model (LLM)
@@ -172,10 +172,10 @@ Artificial Intelligence project focused on optimizing logistics routes for small
 
 ## Research
 
-- 🧪 Member of the **LASINAC Research Laboratory (EPN)**
-- 🛡️ Member of **CYBERMINDS**, EPN's student cybersecurity cell
-- 🤖 Interested in applying **AI and data analysis** to real-world problems
-- 📚 Focused on connecting theoretical foundations with practical implementation
+-  Member of the **LASINAC Research Laboratory (EPN)**
+-  Member of **CYBERMINDS**, EPN's student cybersecurity cell
+-  Interested in applying **AI and data analysis** to real-world problems
+-  Focused on connecting theoretical foundations with practical implementation
 
 ---
 
