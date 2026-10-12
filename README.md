@@ -29,9 +29,9 @@ I care not only about how something works, but about **why it's designed that wa
 
 I actively explore **Artificial Intelligence**, **Data Science**, and **Cybersecurity**, strengthening the fundamentals before specializing.
 
-I'm part of the **LASINAC Research Laboratory**, where I connect academic theory with real technical implementation.
+- I'm part of the **LASINAC Research Laboratory**, where I connect academic theory with real technical implementation.
 
-Member of **CYBERMINDS**, EPN's student cybersecurity cell (CTFs, courses, and projects), with the vision of becoming a leading knowledge network in cybersecurity among professionals and students.
+- Member of **CYBERMINDS**, EPN's student cybersecurity cell (CTFs, courses, and projects), with the vision of becoming a leading knowledge network in cybersecurity among professionals and students.
 
 ---
 
